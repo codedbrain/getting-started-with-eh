@@ -110,4 +110,4 @@
 * https://twitter.com/jobertabma (cofounder of hackerone)
 * https://twitter.com/angealbertini (amazing guy with file format expertise)
 * https://twitter.com/taviso (works at google project zero, amazing researcher)
-* https://twitter.com/codedbrain (that's me)
+* https://twitter.com/mrcodedbrain (that's me)
