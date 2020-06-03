@@ -58,7 +58,7 @@
 ### `netcat` Cheatsheet
 * https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
 
-### Web Security Sesources
+### Web Security Resources
 * https://github.com/qazbnm456/awesome-web-security
 
 ### OWASP Top 10 Projects
