@@ -64,7 +64,6 @@ Tools used for webapp sec
 https://portswigger.net/burp
 https://www.wappalyzer.com/
 https://builtwith.com/
-https://addons.mozilla.org/en-US/firefox/addon/hackbartool/
 https://github.com/aboul3la/Sublist3r
 https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
