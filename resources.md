@@ -1,4 +1,3 @@
-[TOC]
 # The Internet
 ### IP Addresses
 * https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/
@@ -73,11 +72,16 @@
 * https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
 ### Pentesting labs
-https://hackthebox.eu
-https://tryhackme.com
-https://ctftime.org
-http://pentesterlab.com (paid one)
-http://pentesteracademy.com (paid one)
+* https://hackthebox.eu
+* https://tryhackme.com
+* https://ctftime.org
+* http://pentesterlab.com (paid one)
+* http://pentesteracademy.com (paid one)
+
+# CTF
+### Common CTF Practicing Tools & Use-cases
+* https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref
+* https://echopwn.com/ctf-lab/
 
 # Recommended youtube channels
 * https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
@@ -89,12 +93,7 @@ http://pentesteracademy.com (paid one)
 * https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ
 * https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 
-# CTF
-### Common CTF Practicing Tools & Use-cases
-https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref
-https://echopwn.com/ctf-lab/
-
-People to follow
+# People to follow
 * https://twitter.com/demonslay335 (ransomware , malware related stuff)
 * https://twitter.com/NahamSec (bug bounty related stuff)
 * https://twitter.com/TomNomNom (open source tools maker)
