@@ -71,10 +71,11 @@
 * https://github.com/aboul3la/Sublist3r
 * https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
-### Pentesting labs
+### Pentesting and practise labs
 * https://hackthebox.eu
 * https://tryhackme.com
 * https://ctftime.org
+* https://portswigger.net/web-security
 * http://pentesterlab.com (paid one)
 * http://pentesteracademy.com (paid one)
 
