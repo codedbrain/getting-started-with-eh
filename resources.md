@@ -78,6 +78,7 @@
 * https://portswigger.net/web-security
 * http://pentesterlab.com (paid one)
 * http://pentesteracademy.com (paid one)
+* http://prompt.ml/0 (xss labs)
 
 # CTF
 ### Common CTF Practicing Tools & Use-cases
