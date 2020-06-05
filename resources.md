@@ -65,27 +65,46 @@
 * https://owasp.org/www-project-top-ten/
 
 ### Tools Used to test Web Application Security
-* https://portswigger.net/burp
-* https://www.wappalyzer.com/
-* https://builtwith.com/
-* https://github.com/aboul3la/Sublist3r
+#### Vulnerability Scanners
+* [Burp Suite](https://portswigger.net/burp)
+* [OWASP ZAP](https://owasp.org/www-project-zap/)
+* [Acunetix Vulnerability Scanner](https://www.acunetix.com/vulnerability-scanner/)
+* [Inception](https://github.com/proabiral/inception)
+#### Web Technology Identification Tools
+* [Wappalyzer](https://www.wappalyzer.com/)
+* [BuiltWith](https://builtwith.com/)
+#### Subdomain Enumeration Tools
+* [Sublist3r](https://github.com/aboul3la/Sublist3r)
+* [Knockpy](https://github.com/guelfoweb/knock)
+* [shuffleDNS](https://github.com/projectdiscovery/shuffledns)
+* [Subfinder](https://github.com/projectdiscovery/subfinder)
+#### Virtual Host Scanner
+* [VHostScan](https://github.com/codingo/VHostScan)
+* [Virtual Host Discovery](https://github.com/jobertabma/virtual-host-discovery)
+#### Web Content Scanner
+* [DIRB](http://dirb.sourceforge.net/)
+* [Gobuster](https://github.com/OJ/gobuster)
+* [DirBuster](https://sourceforge.net/projects/dirbuster/)
+* [Breacher](https://github.com/s0md3v/Breacher)
+* [Arjun](https://github.com/s0md3v/Arjun)
+#### Automatic Browser Proxy Selection Extensions
 * https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
-### Pentesting and practise labs
+### Pentesting labs
 * https://hackthebox.eu
 * https://tryhackme.com
 * https://ctftime.org
-* https://portswigger.net/web-security
 * http://pentesterlab.com (paid one)
 * http://pentesteracademy.com (paid one)
-* http://prompt.ml/0 (xss labs)
 
 # CTF
 ### Common CTF Practicing Tools & Use-cases
 * https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref
-* https://echopwn.com/ctf-lab/
+* [EchoPwn CTF Lab](https://echopwn.com/ctf-lab/)
+* [picoCTF](https://picoctf.com/)
+* [CTFchallenge.co.uk](https://ctfchallenge.co.uk/)
 
-# Recommended youtube channels
+# Recommended YouTube Channels
 * https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 * https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
 * https://www.youtube.com/user/Computerphile
@@ -95,16 +114,18 @@
 * https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ
 * https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 
-# People to follow
+# People to Follow
 * https://twitter.com/demonslay335 (ransomware , malware related stuff)
 * https://twitter.com/NahamSec (bug bounty related stuff)
 * https://twitter.com/TomNomNom (open source tools maker)
 * https://twitter.com/mathias (works at v8js at google)
+* https://twitter.com/brutelogic (security researcher, creator of knoxss)
 * https://twitter.com/bagder (maker of curl)
 * https://twitter.com/s0md3v (security researcher)
 * https://twitter.com/aemkei (an amazing JS guy also the maker of jsfuck)
 * https://twitter.com/DanielMiessler (also his blog is amazing)
 * https://twitter.com/terjanq (infosec at google plus ctf player)
+* https://twitter.com/zseano (bug bounty related stuff)
 * https://twitter.com/wongmjane (she discovers unreleased features)
 * https://twitter.com/ngalongc (amazing researcher)
 * https://twitter.com/filedescriptor (browser security researcher)
