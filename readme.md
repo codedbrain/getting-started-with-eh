@@ -1,3 +1,5 @@
+This is a curated list of resources for those who want to get started with ethical hacking.
+
 # The Internet
 ### IP Addresses
 * https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/
