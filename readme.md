@@ -112,9 +112,10 @@ This is a curated list of resources for those who want to get started with ethic
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 * [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
-* [GynvaelEN](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+* [NULLBYTE](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 * [Reconless](https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ)
 * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [InsiderPhD] (https://youtube.com/c/InsiderPhD)
 
 # People to Follow
 * [Michael Gillespie](https://twitter.com/demonslay335) (ransomware , malware related stuff)
